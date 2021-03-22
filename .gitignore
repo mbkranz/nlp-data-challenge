@@ -1,6 +1,7 @@
 *.txt
 *.profraw
 *.json
+*.docx
 
 .vscode
 .ipynb_checkpoints
